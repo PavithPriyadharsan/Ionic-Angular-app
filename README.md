@@ -9,8 +9,6 @@ Job Finder is a mobile application built using "**Ionic 7 and Angular 17**". It 
 - **Search Jobs**: Users can search for job listings based on keywords, location, and other filters.
 - **Save Favorites**: Users can save their favorite job listings for later viewing.
 - **Apply Directly**: Integration with job portals allows users to apply for jobs directly within the app.
-- **Notifications**: Users can receive notifications for new job listings matching their search criteria.
-- **User Profiles**: Users can create profiles to save their preferences and job search history.
 
 ## Screenshots
 
